@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: ""
 permalink: pretty
 title: "TB's Blog"
 collections_dir: collections
